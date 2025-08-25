@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, sans-serif;background: #136d90;margin: 0;padding: 20px;
+}h1{
+    text-align: center;
+}.summary{
+    display: flex;justify-content: space-around;margin: 20px 0;
+}.card{
+    background: #49798d;padding: 15px;margin: 10px 0;border-radius: 5px;
+}input, button {
+    padding: 10px;margin: 5px 0;width: 99%;background: #000000;color: white;
+}input{
+    width: 97%;
+}ul{
+    list-style: none; padding: 0;
+}li{
+    color: white; background:#000 ;margin: 5px 0;padding: 10px;border-radius: 5px;display: flex; justify-content: space-between;
+}.amount{
+    font-weight: bold;
+}.pos{
+    color: green;
+}.neg{
+    color: red;
+}
